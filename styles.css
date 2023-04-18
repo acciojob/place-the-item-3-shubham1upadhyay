@@ -1,8 +1,4 @@
-.holder{
-	display:flex;
-	gap:10px;
-	flex-wrap:wrap;
-}
+.holder{display:flex;gap:10px;justify-content:space-evenly;flex-wrap:wrap;}
 .item-1{background-color:blue;padding:10px;}
 .item-2{background-color:yellow; padding:10px;}
 .item-3{background-color:red; padding:10px;}
